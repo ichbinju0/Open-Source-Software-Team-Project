@@ -70,16 +70,16 @@ These initiatives shared common goals: free sharing, reducing duplication, avoid
 
 The Open Educational Resources (OER) concept formally began in 2002, when UNESCO introduced the term during an international forum.
 However, the roots of open education go slightly earlier:
-	•	1998: David Wiley’s Open Content Project
-	•	1999: Rice University’s Connexions
-	•	2001: MIT OpenCourseWare (OCW) launched, gaining major global attention.
+- 1998: David Wiley’s Open Content Project
+- 1999: Rice University’s Connexions
+- 2001: MIT OpenCourseWare (OCW) launched, gaining major global attention.
 
 Following this momentum, several key milestones shaped the movement:
-	•	2005: OpenCourseWare Consortium (now Open Education Global) established.
-	•	2006: UK Open University launched OpenLearn.
-	•	2007: Cape Town Open Education Declaration formally defined the core principles of open education.
-	•	2008: Dave Cormier coined the term MOOC (Massive Open Online Course), following George Siemens and Stephen Downes’ connectivism course.
-	•	2011: MOOCs expanded globally after Sebastian Thrun and Peter Norvig at Stanford attracted over 100,000 students, leading to platforms such as Udacity, Coursera, and edX.
+- 2005: OpenCourseWare Consortium (now Open Education Global) established.
+- 2006: UK Open University launched OpenLearn.
+- 2007: Cape Town Open Education Declaration formally defined the core principles of open education.
+- 2008: Dave Cormier coined the term MOOC (Massive Open Online Course), following George Siemens and Stephen Downes’ connectivism course.
+- 2011: MOOCs expanded globally after Sebastian Thrun and Peter Norvig at Stanford attracted over 100,000 students, leading to platforms such as Udacity, Coursera, and edX.
 
 Today, Open Education continues to evolve, supported by global communities such as the Open Knowledge Foundation’s Open Education Working Group, which documents milestones through the Open Education Timeline.
 
