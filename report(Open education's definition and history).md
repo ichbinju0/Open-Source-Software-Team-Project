@@ -41,7 +41,7 @@ such as schools or universities.
 Overcoming this mindset is crucial, as it opens new opportunities for research
 on formal and informal learning and for building network-based learning communities.
 
-Another significant challenge is openness,
+Another significant challenge is **openness**,
 which refers to the capacity to connect various sectors—educational, social, corporate, and cultural—
 for collaboration and the dissemination of knowledge.
 
@@ -49,7 +49,7 @@ for collaboration and the dissemination of knowledge.
 
 ## 4. The Emergence of Open Education
 
-Within this context, Open Education has become a fertile ground for fostering educational innovation.
+Within this context, **Open Education has become a fertile ground for fostering educational innovation**.
 
 It goes beyond the simple production and use of learning materials,
 embracing practices of sharing, dissemination, and collaboration (mobilization)
@@ -65,6 +65,25 @@ in teaching, administration, and research.
 
 In fact, Open Education itself has grown into a rich and independent field of research.
 
+The history of Open Education can be traced through several “open” movements that emerged during the 20th century — such as Open Source Software, Open Standards, Open Access, Open Design, and Open Data.
+These initiatives shared common goals: free sharing, reducing duplication, avoiding restrictive copyrights, improving accessibility, and promoting collaboration.
+
+The Open Educational Resources (OER) concept formally began in 2002, when UNESCO introduced the term during an international forum.
+However, the roots of open education go slightly earlier:
+	•	1998: David Wiley’s Open Content Project
+	•	1999: Rice University’s Connexions
+	•	2001: MIT OpenCourseWare (OCW) launched, gaining major global attention.
+
+Following this momentum, several key milestones shaped the movement:
+	•	2005: OpenCourseWare Consortium (now Open Education Global) established.
+	•	2006: UK Open University launched OpenLearn.
+	•	2007: Cape Town Open Education Declaration formally defined the core principles of open education.
+	•	2008: Dave Cormier coined the term MOOC (Massive Open Online Course), following George Siemens and Stephen Downes’ connectivism course.
+	•	2011: MOOCs expanded globally after Sebastian Thrun and Peter Norvig at Stanford attracted over 100,000 students, leading to platforms such as Udacity, Coursera, and edX.
+
+Today, Open Education continues to evolve, supported by global communities such as the Open Knowledge Foundation’s Open Education Working Group, which documents milestones through the Open Education Timeline.
+
+
 ⸻
 
 ## 5. Definition of Open Education
@@ -72,8 +91,8 @@ In fact, Open Education itself has grown into a rich and independent field of re
 So, what exactly is Open Education?
 
 According to Ramirez-Montoya,
-Open Education is the process of designing, implementing, and evaluating learning opportunities
-with visionary, operational, and legal openness to improve the quality of learning.
+**Open Education is the process of designing, implementing, and evaluating learning opportunities
+with visionary, operational, and legal openness to improve the quality of learning.**
 
 An analysis of the Scopus database between 2015 and 2020 revealed 110 publications
 related to “open education” and “educational innovation.”
@@ -87,4 +106,8 @@ it is a challenge to establish innovation as a continuous attitude and habitual 
 
 
 
-resource 출처: https://www.mdpi.com/2071-1050/12/17/7053
+
+[sustainability-12-07053.pdf](https://github.com/user-attachments/files/23478831/sustainability-12-07053.pdf)
+
+
+출처: https://www.mdpi.com/2071-1050/12/17/7053
