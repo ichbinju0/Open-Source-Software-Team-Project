@@ -10,7 +10,7 @@ services (care, support, benefits), and solutions (models, systems, methods).
 These changes are not merely about “adding something new.”
 Rather, they involve integrating new elements into existing realities, modifying existing systems, or improving educational operations, services, and logistics.
 
-⸻
+---
 
 ## 2. Definition of Educational Innovation
 
@@ -26,7 +26,7 @@ the vision, actions, structure, components, and management of education.
 
 “Innovation is the heartbeat of education.”
 
-⸻
+---
 
 ## 3. Challenges of Educational Innovation
 
@@ -45,7 +45,7 @@ Another significant challenge is **openness**,
 which refers to the capacity to connect various sectors—educational, social, corporate, and cultural—
 for collaboration and the dissemination of knowledge.
 
-⸻
+---
 
 ## 4. The Emergence of Open Education
 
@@ -84,7 +84,7 @@ Following this momentum, several key milestones shaped the movement:
 Today, Open Education continues to evolve, supported by global communities such as the Open Knowledge Foundation’s Open Education Working Group, which documents milestones through the Open Education Timeline.
 
 
-⸻
+---
 
 ## 5. Definition of Open Education
 
@@ -102,7 +102,8 @@ have shown significant growth in recent years.
 Therefore, Open Education is not merely a concept—
 it is a challenge to establish innovation as a continuous attitude and habitual practice.
 
-⸻
+
+---
 
 
 
