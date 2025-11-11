@@ -1,26 +1,62 @@
-# This is a repository for the team project (Phase 1).
+# 🌍 Opensource Software Final Project  
+### 🧩 *Phase 1 – Understanding the “Open” Ecosystem*  
 
-## Opensource Software Final Project
+> 🏫 **Course:** Opensource Software  
+> 👥 **Team Project (Phase 1)**  
+> 🗓️ **Due Date:** Week 11 (Nov 14)  
+> 🎤 **In-Class Presentation (10 min)**  
+> 💡 **Our Domain:** *Open Education*  
 
-This project is structured into three progressive phases, allowing students to explore the Opensource ecosystem, analyze real OSS communities, and collaboratively design and build a minimal yet functional OSS project.
+---
 
-Students will work in teams of 4. All contributions must be made through GitHub using Pull Requests, Issues, and GitHub Projects.
+## 📘 Overview
+
+This project is structured into **three progressive phases**,  
+allowing students to explore the **Opensource ecosystem**,  
+analyze real **OSS communities**,  
+and collaboratively design and build a **minimal yet functional OSS project**.  
+
+Students will work in **teams of four (4)**,  
+and **all contributions must be made through GitHub**  
+using **Pull Requests, Issues, and GitHub Projects.**
+
+---
+
+## 🪄 Phase 1 — *Understanding the “Open” Ecosystem* (14%)
+
+### 🎯 Objective
+Reflect on how the term **“Open”** is used in different contexts  
+and compare it with the **core values of the Opensource Software movement**  
+(e.g., *Stallman’s Four Freedoms*).
+
+---
 
 
-## Phase 1: Understanding the “Open” Ecosystem (14%)
+#### 🎤 Presentation (max. 10 minutes)
 
-Due Date: Week 11 (Nov 14) Presentation during class
-Each group will be assigned an "Open" domain to investigate:
-• Open Data, Open Science, Open Government, Opensource AI, Open Education, Opensource Hardware, Open knowledge (Our team: Ope Education)
+---
 
-### Objective:
-Reflect on how the term “Open” is used in different contexts and how it compares to the core values of the Opensource Software movement (e.g., Stallman’s Four Freedoms).
+### 📝 Our Domain: 🎓 **Open Education**
 
-### Deliverables:
-• A short presentation (max. 10 minutes) covering:
-o What is your assigned “Open” domain?
- ▪ Definition and historical roots
-o Key principles and examples (platforms, initiatives, projects or communities)
-o How does “Openness” in your domain compare to Openness in the OSS movement?
- ▪ Are there licenses too?
-o Reflections on transparency, collaboration, peer production and community structure
+
+#### 🧭 What to Cover
+1. **Definition and Historical Roots**  
+   - What is Open Education?  
+   - How did it start and evolve?
+
+2. **Key Principles and Examples**  
+   - Core values, initiatives, and representative projects  
+
+3. **Comparison with OSS Movement**  
+   - How does “Openness” in education compare to OSS?  
+   - Are there licenses involved (like Creative Commons)?
+
+4. **Reflection**  
+   - Transparency 💎  
+   - Collaboration 🤝  
+   - Peer Production ⚙️  
+   - Community Structure 🌐  
+
+---
+
+## 🧱 Project Structure (Phase 1 Only)
