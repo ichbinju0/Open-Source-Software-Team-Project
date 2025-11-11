@@ -59,4 +59,3 @@ and compare it with the **core values of the Opensource Software movement**
 
 ---
 
-## 🧱 Project Structure (Phase 1 Only)
