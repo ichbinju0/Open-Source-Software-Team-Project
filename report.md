@@ -1,20 +1,20 @@
-A Deep Dive into Open Education: Transparency, Collaboration, Peer Production, and Community Structure
+# Open Education
 
-Here is an in-depth analysis of how Open Education (OE) embodies the core values of transparency, collaboration, peer production, and community structure, including a comparison with the Open Source Software (OSS) movement.
+## Reflections on transparency, collaboration, peer production and community structure
 
 ---
 
-1. Transparency
+### 1. Transparency
 
 Transparency in Open Education operates across two key dimensions: legal permission and process visibility.
 
-Legal Transparency: Creative Commons Licenses (CCL)
+- 1.1 Legal Transparency: Creative Commons Licenses (CCL)
 
 OER primarily uses **Creative Commons Licenses (CCL)** to clearly and legally communicate user permissions. Unlike traditional "All Rights Reserved" copyright, CCL grants users the **5R Permissions (Retain, Reuse, Revise, Remix, Redistribute)**, ensuring that the extent of their freedom is explicitly and transparently stated.
 
 * Reflection: While this grants transparency, the common use of restrictive clauses like **Non-Commercial (NC)** or **No Derivatives (ND)** creates a tension. This directly contrasts with the **OSS principle of complete freedom for all purposes**, suggesting OE's transparency is often **purpose-driven** (focused on educational and non-profit use) rather than absolute.
 
-Process Transparency: Open Development
+- 1.2 Process Transparency: Open Development
 
 OE initiatives often strive for transparency in their creation process, differentiating themselves from proprietary publishers.
 
@@ -22,7 +22,7 @@ OE initiatives often strive for transparency in their creation process, differen
 
 ---
 
-2. Collaboration
+### 2. Collaboration
 
 Collaboration in Open Education centers on fostering active engagement and the **co-creation of knowledge**, moving beyond passive information delivery.
 
@@ -42,7 +42,7 @@ Open Pedagogy and Collaborative Authorship
 
 ---
 
-3. Peer Production
+### 3. Peer Production
 
 Open Education utilizes the **Commons-Based Peer Production (CBPP)** model, relying on the decentralized and voluntary contributions of a community to create educational resources.
 
@@ -61,7 +61,7 @@ The driving force behind OE peer production differs somewhat from that of OSS.
 
 ---
 
-4. Community Structure
+### 4. Community Structure
 
 The structure of the Open Education community is multifaceted, designed for long-term sustainability and broad adoption.
 
@@ -80,7 +80,7 @@ To endure, OE communities rely on sustainable funding mechanisms outside of comm
 
 ---
 
-Sources (References):
+### Sources (References):
 
 1. Wiley, D. (2014). The Access Compromise and the 5R Rights. Open Content.
 2. Creative Commons. (n.d.). About CC Licenses and the 5Rs.
